@@ -4,6 +4,14 @@ This repository contains the complete submission for the Affordmed backend + fro
 
 ---
 
+## 🎥 Demo Video Recording
+
+[![Watch Demo on Loom](https://img.shields.io/badge/Watch%20Demo-Loom-00897B?style=for-the-badge&logo=loom)](https://www.loom.com/share/63fb308f5ed64842983058e1a206c09c)
+
+> **[Click here to watch the full application walkthrough →](https://www.loom.com/share/63fb308f5ed64842983058e1a206c09c)**
+
+---
+
 ## Repository Structure
 
 ```
