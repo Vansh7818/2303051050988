@@ -1,8 +1,25 @@
+# Dependency directories
 node_modules/
-.env
-.vscode/
-dist/
-build/
-coverage/
-.DS_Store
+notification-app-fe/node_modules/
+
+# Build output
+notification-app-fe/dist/
+
+# Logs
 *.log
+npm-debug.log*
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
